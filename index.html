@@ -494,7 +494,7 @@
             ${quando ? `<div class="popup-quando">📅 ${quando}</div>` : ''}
             ${luogo ? `<div class="popup-luogo">📍 ${luogo}</div>` : ''}
             <a href="${mapsUrl}" target="_blank" class="popup-btn" style="background:${cat.bg}">🗺️ Google Maps</a>
-            <a href="https://luis70695.softr.app/eventi-details/${record.id}" target="_blank" class="popup-btn" style="background:#333;margin-top:6px;display:inline-block;">📋 Vedi dettagli</a>
+            <a href="https://luis70695.softr.app/eventi-details?recordId=${record.id}" target="_blank" class="popup-btn" style="background:#333;margin-top:6px;display:inline-block;">📋 Vedi dettagli</a>
           </div>
         `;
 
