@@ -279,9 +279,7 @@
 </div>
 
 <script>
-  const AIRTABLE_TOKEN = 'patTVod9PUdrwqrLN.b0afd0465e7c038610798b4d9d33f9105ffd25ead94ee6b7577b39c84d28eef3';
-  const BASE_ID        = 'appSkHqxaPi4eaeuv';
-  const TABLE_NAME     = 'Eventi';
+  const JSON_URL = 'https://raw.githubusercontent.com/StaseToscana/mappa-stase-toscana/main/eventi.json';
 
   const CATEGORIE = {
     'Concerto':                   { bg: '#6366f1', emoji: '🎤' },
@@ -359,16 +357,25 @@
   }
 
   async function leggiEventi() {
-    let records = [], offset = null;
-    do {
-      let url = `https://api.airtable.com/v0/${BASE_ID}/${encodeURIComponent(TABLE_NAME)}?pageSize=100`;
-      if (offset) url += `&offset=${offset}`;
-      const res = await fetch(url, { headers: { Authorization: `Bearer ${AIRTABLE_TOKEN}` } });
-      const data = await res.json();
-      records = records.concat(data.records || []);
-      offset = data.offset || null;
-    } while (offset);
-    return records;
+    const res = await fetch(JSON_URL + '?t=' + Date.now());
+    const data = await res.json();
+    // Converti formato JSON nel formato che si aspetta il codice
+    return data.map((e, i) => ({
+      id: 'json_' + i,
+      fields: {
+        'Nome evento': e.nome,
+        'Locandina': e.locandina ? [{ url: e.locandina }] : null,
+        'Categoria': e.categoria,
+        'Provincia': e.provincia,
+        'Comune': e.comune,
+        'Indirizzo completo': e.indirizzo,
+        'Riepilogo date': e.riepilogo_date,
+        'Data sort': e.data_sort,
+        'Apri su Google Maps': e.maps_url,
+        'Lat': e.lat,
+        'Lon': e.lon,
+      }
+    }));
   }
 
   function isFuturo(r) {
@@ -494,7 +501,7 @@
             ${quando ? `<div class="popup-quando">📅 ${quando}</div>` : ''}
             ${luogo ? `<div class="popup-luogo">📍 ${luogo}</div>` : ''}
             <a href="${mapsUrl}" target="_blank" class="popup-btn" style="background:${cat.bg}">🗺️ Google Maps</a>
-            <a href="https://luis70695.softr.app/eventi-details?recordId=${record.id}" target="_blank" class="popup-btn" style="background:#333;margin-top:6px;display:inline-block;">📋 Vedi dettagli</a>
+
           </div>
         `;
 
