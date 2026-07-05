@@ -1,8 +1,7 @@
 [
   {
-    "id": null,
     "nome": "Consuma che ti passa",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/SFqZHp6k4wI_iyCI1d9-qg/xIQwBufwbZXmBw-HHO2Hb8tvuRCnX4WbD2-biFsu0D-muOUs7oy6VL3VzVGKKektcfDrERAHjc8AwYcGMZMyJWHbqxw95DzGd92y-08NCEk6tW-dSzyesYzfy0dQxg6b9MpOWlLfjj2p7mcfUqcDCRi8Dw773NA2NhuZb6V7BOSp3iN3Cxta62apmxq5BFEwv143jwZgZ2DjKrvnG7U3Wg/9AyuUxzro35dG0dMcQq0ZszKWMyUdrUIBbT1NW81xF0",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/K1-ZZ1BZeEpm2cmm-B8XPA/cao82PwglgQpVFFxbpUGcMwFKBmkHZgRftMvG3vRPbwbfwDpt4yS134YWrqApaosI7OTyjo8htiPAqjllO0yGztgl8IU8tQvIZ5tK4BekrS9pQLMbo7oXSBHHCQ_fkvOvNhgPYhWdOuY9EO3mdJsxo_3N_CGlNLOpbk1c6Drd2n-5Ks3Ye7grI5KXJIKszEEzSzOAJ62AFnYRbka0VeW4g/zHvi9Ym3inUSojZ_Y7MsmY2Fapw0QZKQIlckKDwwzgM",
     "categoria": "Altro",
     "provincia": "Firenze",
     "comune": "Montemignaio",
@@ -10,13 +9,12 @@
     "riepilogo_date": "11/07/2026 · 18:30",
     "data_sort": null,
     "maps_url": "https://maps.google.com/?q=Via+Consuma,+61,+Montemignaio,+Firenze",
-    "lat": null,
-    "lon": null
+    "lat": 4378264242697678.5,
+    "lon": 1159903328130575.0
   },
   {
-    "id": null,
     "nome": "Summer Vibes 2026",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/jO4NM2vV8bCgUg0FQYEeiQ/XiKPGMg9BD9dDEFjmDYvT4DkgCdCcB1FR_zS9fBD9SIf7jypbyib4wXHhSMQ-6T0R4X82ohTF-RX9Q7adR8lecQAO4oBLJQ7jZoeBFs6eHZXCHhytbUg1u2t6_LX_CKiGi-HAWCTlbEyYXwg2Afg9dgATaLXCe7ngGxpayOjY20/2aqMNwKoreqnBsePyh-w5K59K8eRTJCfvO804D_m1b4",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/vcVdjPJW8yIhBQusI2QxYg/SC7jUeFK9AyNeq5-hjIZv30vgyrWrOkVotZhkOaoZputbv7RPhb18J_S3Czk1JjUtuVP1cqWl8plNA2fvYVuTwPVEcfn-dNxCRZJZxhkQcIDaJ2Ijy65ObV4PZujQz0dKO1IHvO9HQB6oBCwycCSConpq24-ExbLjYYlVb7MrcM/lXt-7ETW8cEcoT16Dyt39Yb7lcj3pqtzh9oqp_dE9OY",
     "categoria": "Festival",
     "provincia": "Firenze",
     "comune": "Barberino Di Mugello",
@@ -28,9 +26,8 @@
     "lon": 11.2
   },
   {
-    "id": null,
     "nome": "Summer Vibes 2026",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/2N-cAVkC4VeESWSpSZ5qdA/P3y_pwzAFPNGcX9L_452pMC8wXYNRGW0b65J6OC2pMj8ODfqAOlcT_Hf3Ys54VZrEt0q0g7oQYjxndJNTwluCB1VvkRFbkNh6YEWrmcanZoD553r7rqPSi6ghtPlNE_BuPPLVkG5qjG-X-4X7n05qp45iQqw-kPylrxXYu6bf7E/xgErNwFFsyo8VWCkdrFzFJNEckgZbi_5jAq8EPI4QSA",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/yU5uGIvn4R6Qo_K32eyVLg/2gIvvV3tP4JBE3UsBw6th3TQ6uHXi_x3u_2731qxdKng8-aOLb8qBdljgyaWk8LmJ4o2AVmvZRAcw9TmEryKtBxRV_HyWD5hrxTk2cM-dF0LOfjMDpa1OnpgtfeLyzrhnJ-TAEYP2oi30rezQKhm2cTEJ1-cH3MO6xooQNBE8aY/8Nf3Z4yd2pXmGKRXzc-y7FZtaxgMQpa1iZJ1ZeNwyJk",
     "categoria": "Concerto",
     "provincia": "Firenze",
     "comune": "Barberino Di Mugello",
@@ -42,9 +39,8 @@
     "lon": 11.2
   },
   {
-    "id": null,
     "nome": "JOLE",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/Lbc7dVPzXkDot8KDn_XHzQ/IxSktOKHpNrdXw_X3RPm5do_e5hfcF7rBM-45dqlpbOHAVKTJHLJblNNoMbO5U-Mpa4scBGgXh5HyY0wyGTo5tWmI8XVhUMBci7Mf9E6eN5fcbax1oYvBoWryTlPuZE-qt1CSRsGmGadDt09OZaWT4DhLL36cu9mB8Sx2DEMPjU/YEQfQbNV6NSrPw2qCssdETZl5t3sCykqkwVNmVCsVac",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/SUUQivvRfO-IkEz0d90fmA/NznBjpDs6VZnQX54OXLxOSYf90fQ7P5O7WXf0TdP6LEm4QoZ6-NLghfcnBVIvLZrIjhrjXTc6nR1uuJQPzfoZPHsaTub3lg541izcjwdAoz_L7k13WPpBBcmDVeUAK_5qAL_P-M4sxZfVGj2f37pomI79EhOTkysUMdwmNfxXEs/9cvr3XRJxU3Txe8ZcZVJCNsQtCDLf69pjlwvv0RzWxw",
     "categoria": "Concerto",
     "provincia": "Grosseto",
     "comune": "Grosseto",
@@ -56,9 +52,8 @@
     "lon": 11.1
   },
   {
-    "id": null,
     "nome": "Road To Margini",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/txCoaEJ2Mruf-O5bCIa01A/dRx3RTQt3BJZxPB1v5uSyupT20CPQj0cPdef88KPOIdJ8Z2I4DsjeFrp_5J_Gozu1a5MP0QFS2JpgBIAmEisrsUd20DJfoL8UXTOKRPgPbw5dCknwLUXCNa8kNFgtKhsqb4XoPA01vyWumASB4i1l_IWbtsuW6s_uGZZQlX-sFQ/kFLftK-pJ9Xz5pz64VjArN3vQUa0Zbg8o4ZdZATy3-8",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/Mr4dAYTC9KPUlZq5efdxqQ/C1DSiZL0nLFnw3VLvqREtUsAHn52OJczS_9iycTA9evF1rS4zKH15ZK4CyMrOHUW1qwuHku6sLiP-ewaYkrGWe1h7MaGPg8VZ0rsx-k1UWokQe0I01ZEptOT4sFejoktTqLv4q9oc35W82afINwZ7QN1JpledKHaQLD_CG-z_P4/5-VEpdxtknMAlbkCkyyknuCvQzbAEv5ATD-GB8jVMdg",
     "categoria": "Festival",
     "provincia": "Grosseto",
     "comune": "Grosseto",
@@ -70,9 +65,8 @@
     "lon": 11.1
   },
   {
-    "id": null,
     "nome": "CINEMURA",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/iZgMBP0SHl4c5i-I9bfy-A/XYpbvSXUCe1kaIMn36qp05wSpAafqKJGyk3BRjgeP7xnLiU3TVTAx22Q6M2tP0Y3J2rjjSstYpdI2bJ00OdPIev66qWcUHZm-5yCLXuO3iM9w89JoISxr7ffuRd9F9o2IzRxA0cLRzpdIvoLiF0AcWgOBQTIouMHr4uTucp578o/9a1EUD8waJk2Yt6RcgxI-Krg-eLADYsnj--ac7fonJc",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/n-fFVMO04sXBG0zUifGWkQ/HoptGCCOx37Wxu1s2gDA_STB2RS3PsMYFTX21tDyn3JS1vERxXWa6k5Kfzns6LaLQKyy6-9dP2hgpCN78zOZoxo62FXHP1NIfpH6tIZx3gmbIvVbHaNIg7TwgMrzOIj4PHrAD72LJyLw9sjN64AHVR2Xk85YqfprRCxzDAtePE0/sqQwttWBET5rTbXJNluUdqUfDl_UXDdQQ-3iAqjAi2g",
     "categoria": "Altro",
     "provincia": "Grosseto",
     "comune": "Grosseto",
@@ -84,9 +78,8 @@
     "lon": 11.1
   },
   {
-    "id": null,
     "nome": "Pop Up",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/rHXC2dgPZtVJ3WGoOZt5VQ/lG70Wy8kvQxA2TrALQCgI2xwOgXMjcuATvUlV0bmAcShY3RWTCgHaafPK_GO3BrauaNd8HXjlQG7C7FmdUuIkxn2XaHmG4lrBTBbKo-Ewjt1apGfEhEtQEIPbQJKabx8R7iv2K8djd1p0l0njgkJ8HNhwsACuO9M04VkmDxlXTerhzLrsM0hZIGM9SbAOlTF/S1DiDN7DwH81CCuMeUhM4PFinG5vd1dY9-jyHVDis58",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/nvTB4EZNJjGT0ZQpmYDIDg/G0mziyig-mgvGsdfnNeD8Fi6rD6XucJUTUYyUFO5mEIDy5Bu1p96wsRqUrwKwtztT9jC8gb7PI6LhoUWD6n145JOleOUzNt_LhLg2QvGYYGLOk-jug30F_J0ZBL8BvLvSdWJM4SITlSsg46OYbiyQZyV_JzRLl28za6D0emx4vMdhJBlVXAmFh10b3f-0SBb/Hre6eBri4-kml2Rm2vQMNvIYZsG9ZIkd8htBKP8QyMs",
     "categoria": "Spettacolo teatrale",
     "provincia": "Grosseto",
     "comune": "Grosseto",
@@ -98,9 +91,8 @@
     "lon": 11.1
   },
   {
-    "id": null,
     "nome": "The Steaks - 04/7 live @La Capannina - Ciciano",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/wPYBO9XpV8wizmtWvlBHWg/uNxfTfjWZ-phhXcPbt_mVNa3t6Ypv3uY7mTgGLd6vat6vuVBiQ8NMYN1YveKCMHDrNCkRN22JR44XaKyh0sUzyVlhl2MA1i3GtfIKRW8QPkWmWV7D5LumPqAAqFQ7aI1RjxEEvBANa_192xx2fzHN4iLmRL85uexWEMSqly39wKA1bHI40qjLCOZnXwZJqIK/gSCRWV1TqNLBvTZKOFL27PP0BmAgNAAMc0km74LTkXU",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/LJW4VoWMcG0_v48IHvOqyQ/JWtPRn-fAxcKMEJAHB-_af1sYMD_-7hcWOR7Hl_WVg__QJg_fXdc3a2FtyaN5pcJQHlAiVeJ4h7S3eY82Y72KwXllGZJtgcjiJR4EUDO_9Om7o3UxYFSTu5k_KJGziHoOiC6zExOsHR_CYHc_1IUzVsjSWjVTE8FhguCT88C6m6X1Tm9uiva-oh4ik6-Gkc2/RjyZqMCI94D-_sErYW4aSVfMv5eE4Pg97HSJ1MWD01A",
     "categoria": "Festival",
     "provincia": "Siena",
     "comune": "Ciciano",
@@ -112,9 +104,8 @@
     "lon": 11.1
   },
   {
-    "id": null,
     "nome": "Un'estate di storie",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/sr6xbaSClBUrvwU-EqwGbA/gfeL_43mVkqbaOtG-LWw1UXgmhcpC0HBaL_5XmZzMvhAH7P5Qc--htXmcKBpVSsa3_wxckPiYy50qZmPNcHUhVhOA30T2jfbUAT5NI0Mehzq7NA9qNWRdGFXlnXfh1ikj2Q_owChj7e_5gp_kgJ_qfr5t1P6LJrlwhwOTvjmaxA2uRUJLZsu3q6bvN8s-1k8/qsK2ibrTlcASgeL70ZXAmBZ4TNJaXOigXIrxZRHuGCw",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/XxNzzNmAHbNpfLF7D-x2ZQ/WjA65rpgqePe18SsrGpV-0naGKFDkHq4juSTRKQ80uUqvzKiA4Cx_zEm3ZR0urSz-xYz19LI8WQwLs05bfXRlGBmYfXCQr0kt02uVtXlxrG3BV0NFVHGWpYlqA6-XGI8-V6hAyrlmbkxU4ZFHxzw2yNwWeogtx7T0AAp8RcWRRz_OHCnqnoBR2q95DN8zbT0/R7PVIUFnUSX1-I2RUZHrl1hcA43oIQpdlhaBu32pIf0",
     "categoria": "Altro",
     "provincia": "Livorno",
     "comune": "Marina di Cecina",
@@ -122,13 +113,12 @@
     "riepilogo_date": "Ogni Mercoledì · dal 01/07 al 26/08 · 17:30",
     "data_sort": null,
     "maps_url": "https://maps.google.com/?q=Area+bocce+\"Beppe+Benedetti\"+Viale+Galliano+,+Marina+di+Cecina+,+Livorno",
-    "lat": null,
-    "lon": null
+    "lat": 4329648864399593.0,
+    "lon": 1049821321831607.0
   },
   {
-    "id": null,
     "nome": "Biblio Marina la biblioteca del mare",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/DLRR70LgYMLlrS6FLGVPDw/cLg876Yo4Np49J67AvkdogG4H6Xe0D-0AbmuWiQuWLfYSJ-8iYYqS3P-izeUqtognotO9dVHu1iAeie36uq2uIJ5MN5cIr8UTlkxbHpTXbKJsvxtMQMgtjX4Js_R4Nl1CkY6mM2d8elN9rcLRG1yzMgOH2ryw-LHi5Y7o8jcqa60YVtRqKAZAscLUtvuthzx/gyML5kRA5fmQjAjVLz97r-oDxkSPemixUwNUPBFWjYo",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/QdZo5PLrLKv1ku6SQsjPzQ/CgTuRMdFvorqVqFDefrGdt4WB-9jGhKmledQaoOXJGa8HUS0vcNSb7DtwsowDvJHufyUj65KN2bwVnChp4xpCWRXGoUysbtxIoKY8YAUNdCbinvYLQwlBi8rueMlzwqhtIGIZoY9JVqMjg7ROu7bzlhtbVKdehRC3hORBH61VVFmgihjjAa-EdQ8rDVtZhBG/S99jm4E2nMaJ4RirN1QwYLfWZV6hSYIz2TTbgv7UfXw",
     "categoria": "Altro",
     "provincia": "Livorno",
     "comune": "Marina di Cecina",
@@ -136,13 +126,12 @@
     "riepilogo_date": "Ogni Lunedì, Venerdì · dal 10/07 al 31/08 · 09:00",
     "data_sort": null,
     "maps_url": "https://maps.google.com/?q=Area+bocce+Beppe+Benedetti+Viale+Galliano+,+Marina+di+Cecina+,+Livorno",
-    "lat": null,
-    "lon": null
+    "lat": 4329648864399593.0,
+    "lon": 1049821321831607.0
   },
   {
-    "id": null,
     "nome": "PESALO!",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/ooOT_CjJwH_3smhlaFqPEQ/VOz78NOO4O0bXjEdergHXfWt1B3vlPx4rFPwtyWR9h2ioCCM9Rx_3RJAO5x2CyWuZ16lIVOuYK_OGL_GJNFThI6d3qMes2z9aDZWIrafzKO2zKzfuudzhqXZAjW07t5YJL5fq2rlH_mCTPy1q8cPWrADckAcDL3fG0wQYt2fA_Y/9jVQuxhU8ylQqD5He3RPjwIKrJpTHYJFrL6HSuQcYKM",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/kWzuGKKHxOY8DIwhgxZm0g/BxwPMYah3UClt-Sudr1ID6JQdDiYENfA3iFhshSd0VrjebJjedGm7qSTsayhxnWtOSAQMKxblGxqjsxS5Ch88gAo4cvhL2CiJQc3c7pTBQjy899a2eFihAqXCjSpP88f_GLviWF4Z-zBQdY-McN5UPudgUMVqT7mbY-LQMGwvOo/rzVQhCWeWx7GB07_NLMoZNB99eBnjeNPGgi_rsfjUQE",
     "categoria": "Mercato",
     "provincia": "Firenze",
     "comune": "Calenzano, FI",
@@ -154,9 +143,8 @@
     "lon": 11.2
   },
   {
-    "id": null,
     "nome": "Bombicci Vibes - Fucecchio",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/ixS0jby48ObfDxv8YfZtog/6F8v0TS3awcCX5tWR5XdSN2cuIQkfgqivZyFBawGlqCi6HkKtdSNmG42rHkpusICtxcb5fnL66waVkLvK2Qm3Z8O2_1V8wS6Q7oB-gNjmAowCBLdlXfEWchMej8PgfxBsvRNuTbR7iObl_n46cZOZXZsvCXqYMXdm-GkswA2HeVkbgJhZNT70BOom5OsY3km4wLi8eEa9WUKGbQpAfaaoQ/OkQUNYYY13splZS7MLMvMfrsEH_l9WxE2bQCQ5UnRpU",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/Jp2zV_odNH4ZuwKBna-whg/pp9aitY6_TxXANRqUcLSPYoUuq1GkAn_nfXEtF1bdS0H5apSO5puI27MwQcajEAmFM21X8dE1t7V5l9PRdS408SZBA9nf_rzFg-M19N-6X-KHtmUd7Lv1Kas9QlJvCffQtvPYUJAxm83nkK0klula_Lwt68vPEypjuU43A6fmlbY9Tpqi8iciYeJYniH4fYTgzKwG66HKYLbsHAazRQlgQ/2-8oZEmDXsRc3Y36jF82zMhyD_nmaoQGIQLqC61LTjs",
     "categoria": "Altro",
     "provincia": "Firenze",
     "comune": "Fucecchio",
@@ -164,13 +152,12 @@
     "riepilogo_date": "Ogni Mercoledì · dal 08/07 al 22/07 · 19:00",
     "data_sort": null,
     "maps_url": "https://maps.google.com/?q=Giardino+Tommaso+Cardini+-+Ex+Bombicci,+Fucecchio,+Firenze",
-    "lat": null,
-    "lon": null
+    "lat": 4372723403273308.0,
+    "lon": 1.0810791783154414e+16
   },
   {
-    "id": null,
     "nome": "Arno Sound Park",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/RhmZDm1aZYc4Bqau9cJ8dg/n-lEUK-5jOgU9CxKIqOrjJ_yKIRfCs3ai56IVDCkJA2L3NAEK6bRKaKM-5PaMU1XdvaviiWBF3FHLD4v0TUJVzO4Keiaa_4snBAvPo3BUpL2uEWm0rcrZP3qAzRj4Q_2Vpac5eV6MT3HCrEplwiv9KEhGgXoATSZIG-Up7mKgF7KQ33I2liDpAaB5wYkljmD/1Eed-DyvkvwRXYk4B9ZC00C0tb1onkbbwXIn5vQmZxU",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/ZLwNnI0x3fFnItfV4XCrxg/xxDxq-Dvfr38DAztk6dTmpC_rE9KUn4Uf2DID2ay3Oz7fCCuhVgj0BPkdfLAkmmeVcCpRTU2qmWqYLcW73JGHjThVU2pK5CDJTooiVnJOdwQuh-Au7neEYq7x_1C7PZCyvOxGh9pV5uQ-TOkI1velFJ9Zmel9NPBO0pAcv9NEV-feAq_1vNSEOw5EL_x3NmB/IAcG6hnwmlBAPi1qACv7qB2_tcC8PJ1SCyDUM2iyN7U",
     "categoria": "Festival",
     "provincia": "Firenze",
     "comune": "Lastra a Signa",
@@ -182,9 +169,8 @@
     "lon": 11.1
   },
   {
-    "id": null,
     "nome": "Filo d'identità -Incontri, storie, corpi",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/yCIILtdtDj-rWf7Ev529Vg/-XrNuJvnd_92lru-piewuDMxINZoBe_4ommrpdatiW84f0O65r4nz8pOV4igy9AdFXRp4I_WDsra0pezrD1oOeEJk_9XM4KZbfaBXhNaOeZ8YkIDPXfv_QKwIEgnYe59mXY3XIIpVTUe1zveZZUxMXwVKU2TV9PiXOl5ueShCwfhMqpvn3LnNVxwktvYmVKt/HVQNxNv5HAHBc0a1808YBWnIxTUnsy-8EaLUwfvVkeY",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/jOtb-X86GzUsVfonREbACg/0_YwRyKFtAdwOdLJLFKT_MxCjoEriTkQJ8azuOGSoJaTJGmdX-6oMf4yBIKjRCFipXJKDSxzMeQDHWgurwASce0J8QWjsysdEn4nB9sA_6lVctwAxSf3j4hMEb12_sTv2hwjSTGsAHHJL-ZGAQzWyzW8LKbk0P1U0fi261Kn1oJIW5uHRefa91YvPZ2TEuW5/2IiC3OoEQTCvVsGCIa0S28RLlPZDGWHaT4DXxv-4_jQ",
     "categoria": "Festival",
     "provincia": "Pisa",
     "comune": "Comune di Montopoli, Comune di Fucecchio, Comune San Miniato e Comune di Pontedera",
@@ -196,9 +182,8 @@
     "lon": null
   },
   {
-    "id": null,
     "nome": "SOTTOVUOTO",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/SaY_MbS-JgJsNE3Ew2RAdw/Rzig5O-r0E_sQ4YVzxaO4F9r901f9-gqH6BFBS35kJKhzZDkdhKOszEMC_uTtaJ4HIGZ6RnZUiByHa7Jn0PcGwJI5D9qYzE9bwazfkBHS1Ucg_oGbOEtf8Q1PgCL13PZktH2f0vXscVxEaVICxiBrPafO8vS3ZrfAa1BunRIRxk53XPnnAJ-SVdTyPmgibwj/0LdAaYffZ6utDPEHaIpGvudbdHJSCXHa7Rhcm0gzq9M",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/osts3JHAIpkKETaKWSqUaw/SpLgf7OTxmNdX6lLFaSHEsWO8vW66gp82PRH0GhD3yV3EAuepfFtPoNXqr8wQ3Z7iOwiGDzUxOOsXhv6DfpukQ1XSZHkwXXEGoLraWTtZ1qsbROc9jL2qMCP2mSrA40o0U2JSeDFzV0BZmNyAZiQCLWdrSNBd7_q3kRVXddTRPGIecWqgJEsZg95Jk2fRdSt/NIm2AdZNh8uk3Yukxdi4BkZY2ZvoJ-S0HNjgqbauipE",
     "categoria": "Mostra/Esposizione",
     "provincia": "Lucca",
     "comune": "Lucca",
@@ -210,9 +195,8 @@
     "lon": 10.5
   },
   {
-    "id": null,
     "nome": "Workshop di Ceramica",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/443M9qXgJ4GpDu70T-6ERQ/Q5HQGobUQTMtq7wq2qoZ90UMEKfKfEysyg34ViI-WZ3JP72Ipa-D7YuKtPeD7CA9XHdN3h-jEO0EWCRAXB2weN1eNZgaltLFl4KQZEXCLoAdaCb0Zgj0W_hTRTK0dmJAU2PgQfxuNU18nkqkh4BXM7p3iO_QtqzTzEuR3WXFUmG77cLPMV5q_FJszA8Qzff6/VYzDPTF8GfqMncExSV8CkEvJvXVlQalLghT-qzqzL0s",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/JS7uqM3tpLGG91Y7RK_mAw/MyQvYEL8LYqRKf_exMd38IRAlAitrUoxrcNJ3P4ngmxFD-3SSPLVOJ3QYU6KTV6ZV--JR_DF1FZxjpYlaWFNhwszZuYRGhFsPn1nlNSEpCCFzWYhore0h5pir7ca5hdmztTvX0FkLmAleYNZ7ZmubZoZ6oiXhB_ZqelmqidThzdXeZAQ1015lk3zGl0ccTn6/i5qL_dUn6V4XaX4GryJZNv9QYhva6H7zR6_XxopGEs0",
     "categoria": "Altro",
     "provincia": "Lucca",
     "comune": "Lucca",
@@ -224,9 +208,8 @@
     "lon": 10.5
   },
   {
-    "id": null,
     "nome": "Workshop di Formatura in Gesso",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/s4a-q2VbCINnULL9K5YERQ/h6ekLN4ReTWsdvyhEMwDD9EGapV7i_UQxKZSnt5jIMt_TKcbiaG5W4geo9K82qdsd_T-pd7tiP21KfhLvo1GqRJ73olntNiM6Ob5CEEP5ud94dctdkQVTszfIHKn0wK6OxRBvpxtEU0q67uK3RvlAzwauPsyHeCqSdzd94-0_Ys/qgOJTm8E6B03foFUdZT6gA41VwUYaSGtGpHL2w8D3rk",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/-7941cAk0qid09USt87wig/b9XlsmmsPaaF0c0prWqHFNEAjxsYI9Es_Va4gA1RQNIDvkrgbGlw27DpfjWW0TRy_b217lL_Kar7Xty9PscV_yDxpoMtulrsxiyKElGf-KBiKHEEXMeLvfJWy9WZtfAUQaLY2rzQDgbVwDgBRzSARQYbMDinV-SazN2hQKBP2PE/C82x2tIY9-PAxvNvRzRexdKQ3Bdq0yo8bcRdw0YGnMo",
     "categoria": "Altro",
     "provincia": "Lucca",
     "comune": "Lucca",
@@ -238,9 +221,8 @@
     "lon": 10.5
   },
   {
-    "id": null,
     "nome": "Fabbrica Art&Food",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/kUzykUO5PtxlxElgo4S-ag/I9Wjj6M4VrSAaTf18n9w2dpjUM-rpBJKsqY5-pbR1YyB4mtVXRYsIbDIFIjMdCaD3ae39lrP1wMU2vnA8cwtkkovcsKnsSsEw7QebVaAqGNJlGunxn4BrXCCIgx_66CnXWrcHzLO7Somx79FDSoZ2UA4pWJg3qV56tXu1_2eNjXZoQZ5z-vZvRqMAehpzVPL/SoUPjNNqfK9EBaOhpum7xWUGE5rSGp29e8hB65vdyl8",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/TTjW1a7YSd_WK-3j8Cj8Pw/sM77I8fzEJmZ6AAbS5Jsg1yu0c4U3kCtaoXAxaAYKuECGal_IlxQAf_1JHhn7Fc00czuOFnwoN28DMMi_w5FXI_-P8PcQ8U_iFxFV5FIsy7-bsFqaaN1HyiuYLyfsiDBbck-9RBMTmRiiWOEJ2QUDQda-JpybTDJ-CijJFeNgjWMu3uvu0pOT1LxaA-Vk8NZ/xdw0c7t5FrbhgzywmoiE_nbZI28SS1gP6Ofy0mC2QfM",
     "categoria": "Festa paesana",
     "provincia": "Pisa",
     "comune": "Fabbrica di Peccioli",
@@ -252,9 +234,8 @@
     "lon": 10.8
   },
   {
-    "id": null,
     "nome": "Viaggia insieme a me - Sagra del Pane e pomodoro",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/yIHLcbjls9tGNT6Din9JMQ/Jpi1MNPmIcxMqF2eltRXD1lwXiA5F9JcAhSkXkrdcxc64Xs2mE1UhXKkTGJQhaq_6OpvrdpD_TjUJ8A4wOtLxcBqtrBwlJ3Me8-d1Y-ZqWqOOQcCkZRV_dHnKxNUYUXfWn-CM2nzAr4hposE-7TxeXyS0cUxADDcQfNcn_EFWKo/LOk_cBP6e1KY2dUv3arCRumj-FXISZQump9d7TT3i70",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/zS0aeAUq7sGEGGksseEf_g/ewFMk7cwW12KJ-EX_YJCnI-mLbjz_8qdnAMuiMX5rkGTJ0hIzs6PaP3ZYSCmIm-U1HWZe8l2bsqu_AFZvmYvgxhXhRfbilyrx0yioj34buR0OerWs_-ZZYn8Srdfj29NTP-baFGzPa3tkpJMg0ZobM61HGjNsdcQa2WOvuuH47k/7uEVKeckFRkpB-FULJDY-c8pZmxM7ln69DwgXrXH-mc",
     "categoria": "Serata/Discoteca",
     "provincia": "Livorno",
     "comune": "Livorno, Stagno",
@@ -266,9 +247,8 @@
     "lon": 10.4
   },
   {
-    "id": null,
     "nome": "Non solo barzellette di Alessandro Paci",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/H5OBVbo1nwJNThJ-IHnMJg/q5U7HF5OlMscaYO1woKyx1I8_5lWhMxMu65wPCVvzBZ5iK30Cj2FL5NnDTIhExpiQw1eonB-jl86-kZfUXe1xDJ-vu09xkuWGzl3disRNvnlUGfTrFRW-Gwv-85YWEAlisJNCAinL-wlAreINdsENzTaV_dTJzId0tjy5yxETQM/HHJDfaqIUIlgIgVqgyBFoz6otkz8AhLxIncHheYqB8E",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/sIjQfrsZVFfHzGHIV-CwlQ/F_N40ouTil8ZS-4cGl0lJm1qoOtj-vrY24-OHJ6juOGk1a1WdtU8Wu9IccQWzcgxyFsljF_KtwiY7LSZuPi589ZcsAuFovGJ5RxdR7t-JLxvHeLqeeAecyytajB_EE1DmJCCWalHq-it2DQcwscgNZTo2qJq1vK4WHs_ylxYNaQ/w8UMdcf78ETK_dacgTZ6-HryPr-zdPEi-TB95QISFtA",
     "categoria": "Spettacolo teatrale",
     "provincia": "Firenze",
     "comune": "Scandicci",
@@ -280,9 +260,8 @@
     "lon": 11.2
   },
   {
-    "id": null,
     "nome": "Arkana 202",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/k05msWjuh1YQPG7PYUEdVA/Rg-dkRCoPBwXPYAWYNSKD22BgcAoys1tpNYaDS17fxxi3c4nprrE3KUhxRZARmV5E93Zzo6-ZdbZeYw8tkpLuNr5n5eaGUgmBAISI17yiyQnGJWEozUwqVpBvVnMq0OPWouMypx52oe1PAU9iCU064Dcxssbe7stobcoISfGjGE6SAvBRwlmBA-1UGg3lTH2/AzrOz1j9T5a92sgPWpPJruR1O36HKcWrhIVJmhQ9I40",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/m1Nw9PmBsLOttcuaYBKZmA/5K3p_xERxI6yGH01Vyd9jfBvrmjaxdkfq-lqpUkaDaHRYuD_RADu7jC1V6ggLAAo1PGyG9hNjtiBqAq8QijfqYtair-ts13idWsvvqZWPhCAepVC0Mqe3QK4mBSJh9luOTTDZLMWr94znHTbk1aEmSmvXW7bpHS-fjLg1dLiYPrpD0vKtLvwNuxltB1Abc1V/QP6RAzMoMvOipVUrM_lu69kYmZyBay8bicggXQz87hM",
     "categoria": "Festival",
     "provincia": "Lucca",
     "comune": "Castelvecchio di Compito",
@@ -290,13 +269,12 @@
     "riepilogo_date": "29/08/2026 · 17:30",
     "data_sort": null,
     "maps_url": "https://maps.google.com/?q=Castelvecchio+Alto,+Castelvecchio+di+Compito,+Lucca",
-    "lat": null,
-    "lon": null
+    "lat": 4376516456222721.5,
+    "lon": 1.0608107189761872e+16
   },
   {
-    "id": null,
     "nome": "Summer Vibes 2026",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/W91_qEuylnOcyAQ9oQEFqw/ycQhTtiCzMxPgOqXEIkqaL0YMG4KXH0I7VoRPJdPeS3vkdF2-Ig7OgqeWTPJ3A-FU1C5ITknwfEpVWu7wr-IvXEfpEd_jT0hRAnKjbMI8SSK1dyWmKQVlxQyALgb_Do_HAOyMgGYpOxsAhBl3S7LRPQAQkpzc1wgX4RQSTi38G4yR0H5Ih0JxYYOtvxVvlcy/iLon05-0zmU6tG_rn6XbPl_EhVroRu6buGsFmUv0frs",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/3qMNQjTvD3qanbY4YauPCg/fozZPTrPMy85syVIoR_nr1Cdbd-kWt7WewIWLR_7fXjyvv5LmTr6SqOfvXhi8qvVg_dL3e1nvhrozBouj11EQohankRgRc3o6c_kMrckXKXUWVBAEWesn9iS0o5nYdRC7oGEw78XX3bMW6PCadClDavJvBC4O_LxXWUj_QUgnFDpBC1P6taqBOHdLUq4CrbG/HQdHe_XfDghZ8aZXSvdpqylfb2Oj5A4aROYXENf3rCU",
     "categoria": "Concerto",
     "provincia": "Firenze",
     "comune": "Barberino di Mugello",
@@ -308,9 +286,8 @@
     "lon": 11.2
   },
   {
-    "id": null,
     "nome": "Summer Vibes 2026",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/3tD-p8DZK8UtC8ueRs_UYA/jw-NDCKcOCxTJOA8wPh1UUkpclnx_9ZMwLpIF3ldhJaDR9UAcGNq5ruh0qzKBkuTddzAyWq05G2gNMOb0QBJDHkzA199uJ6m1h0rd2q0KuSx4J2zMzvIytjhY6GOYEVWTPN9dxSSMYHcZzRsiMlipxFYJ4OX73pqfnDna6L9IfNcnmft0JBz48rKAZURpyH2/adsjSJv5HnKUegOMJS3jCj-KNV96nc38VyRHN8qpGvc",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/yYsSp8Gf6z1K7_8aIdT7Fw/92Vlwhu6EVfMrKnUCfIzxt3GDamscdJGsPUl72yV_wo79wF3dknmZOIaty0eCRr77THnNn_0ryjetMfrU3pgASelvgPHymlu4QFFqCQR-X13nQBaRNZeV_rrJrFxvQf13zrFLNwJw4sl-K7iQJajG_yGdvCJp3TjZ1oLrThI5b_shssXKY5sKPEDO862iTx-/ITT5m429HFAtoEw-gTp3zptX_0zYzON1CDy7ickjv4U",
     "categoria": "Concerto",
     "provincia": "Firenze",
     "comune": "Barberino di Mugello",
@@ -322,9 +299,8 @@
     "lon": 11.2
   },
   {
-    "id": null,
     "nome": "Summer Vibes 2026",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/FrYVgCLXEgs3OcWDl6JXvQ/FOaLNbduwStry1T4uxfGqibyXqbiFk_Oq2-RYb75tdDaWLONwrnCo_HsrLOoM4SKlQFVJ2vCuOY58yycnASrB4yZNrDbTS1tvmHppfjvEeBX6jEhNO1O887JiF8dGkfiDsmYvjKHs7GvIMuv6e9isLw0QRaDHq0qhKSNVZA7BqX4b7pmiBQaYuWaYLy5jDrN/8X453Cyb7RQUiXOx9Grej2D13facVUaZ4vrn4PN-TGI",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/Napc9oUmwdPgPJT3oXE_WA/tQ26LeDodUe6df87taxV8npI0f59oaI5mGorSF5JidtHW1v01c56Pwb9EOkABML7ibRTn4v0qZAqQGUUi-R-a6miqi_6aB06UfEqRCTsR3gAECLa6YX9_XuwogiTttyTko7St48bAf6yyVIMb7GsL80nsBgLBt5SlgWOEAgj2SnYHmOmJ684WFwD3E3lOAka/VRwhp1OElXLx5M2xVKxZ8ZnC4AKiybkCww_j14upsSw",
     "categoria": "Concerto",
     "provincia": "Firenze",
     "comune": "Barberino di Mugello",
@@ -336,9 +312,8 @@
     "lon": 11.2
   },
   {
-    "id": null,
     "nome": "Summer Vibes 2026",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/j8K0QAFPMB8jkEXy2jEC-A/xF8jw7uu9vYcHze5oTwD2JH0Nq8ec9WZJC-3fQCf-dCnmKrwXJekMGv7yyxd4VDDadohgho5tP_F6PDZ59uQowYGHoBHr4GjpBUAJ4SBktfyfx-L0g4pDoK1UgL3TH86mCcAtzuRGYkp3neH_1yNc5_x5bvbzuE5Bvxy1GbH076TiFsZ4J8x7PzzbBguSQ5Z/2EAlRYwJ_IzQWtbK5UFbiib9m3x7rRGs9i092mulMWU",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/Oca4sGjVAV79du7szqJ0ig/CPYN5OJDZ9xf0QAiDCdnKCM4RG4oxpBiMKuO0q4pwoWTk49UBdjW-wp1EoS1K8Gl6cCdspzLL7Csrp6dh0HJFHlkndNr_wELr5LJ-H0KVcNGpnc6NM39-FKVQ-4mfVvccYObNvNfVLhuK2CurQ9_1oQuWwvne36KTwfDD1CYFzu_6SoKYekjqTIDzLeRreF4/gtSTsb0cn3aH0k2GUFXEqjKFQZuQaHzPwbuZq_ik9nE",
     "categoria": "Concerto",
     "provincia": "Firenze",
     "comune": "Barberino di Mugello",
@@ -350,9 +325,8 @@
     "lon": 11.2
   },
   {
-    "id": null,
     "nome": "Summer Vibes 2026",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/kzQjclBPeZ3hNGFBdBfuRg/JolAfJ4h8WB6ek-1LdT0Rtj88XBGzuCZ-LRuTWrYVvlgeNDVKL7Xhck_ZU5aGtEX7NYGIt2_wvxU3y01NTezLrNyLrsVenLF8YqLVDW4avptYjTZhlFWR_n5ZmExsMXIfwL1LFYHT3PnDQQL2CZYcd38roI49wPP5P8TIk4OHLCyMvn7RHgbXcXfjsGmqnC8/WbBXhsgPK3KpEClcttoVhtHWwHk5lgbXP2D-hiQjfb0",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/HCGUtOYwWSHEz7iQkTeMTg/OZkmvp2qLd8EA-04YR-TR2HXYRsS1ukRVshWq3Mm8uLfDA1vDiaNLSeS2im7bUc3HiNu74Tu0pSVJ0DkAupSIp8N5_EzQUjHDjYPYwhh-PtFu_4jamSzTa5CWSa1qyzMJcMYfrBZjoqjS2e0PgDUTvXVxIiw7WBXhGie6wcLp_vGPjrgBNgI6Jv4IxeiyAbB/q4So9adpkYyneQFocW2m4w0mIb88vESRQT6XKJustZ8",
     "categoria": "Concerto",
     "provincia": "Firenze",
     "comune": "Barberino di Mugello",
@@ -364,9 +338,8 @@
     "lon": 11.2
   },
   {
-    "id": null,
     "nome": "Summer Vibes 2026",
-    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783252800000/mObTp2PMAbbZSby756PK7g/LZKUX3WcRhatJVQvyLAGZLHNAM3JIp-Ej03znQ6RqW76RJFO33R8blQntJjgjJhrpnAoQlB2MaSAaR0_W9Qe5e5l9_a1w2cFktm2vh7D10WsEiK7Om-0c8c5JlRhJi8Pdhliuza96rhvvvsYvv8CnHdd_0zUeFF5nPQ5ce6725-PaSn3mwxbHGdqhsvVArLe/CJECgWnewIj0HuYz7HibBytdfGAkdZO2m76esJ5aZ6g",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783260000000/yxTX-anH5FlIkCwMIcB0LQ/0EVPJfYz1Qkpd-BqcdUUNIZOv5WbBuDUXqKt8hvnDoWiuihT7z68PCIYq4_OGfQKPe-sgI5XLT3W_3CkDDuJMiLgiv9BrXf94wixIjp3ZIqjXYWsjqWP_HGxdM6P2IWjmnV6XuKj5yxHDeTHQ2QntP-RQ-nvZLDrXSzeOmBCnKIVphEy5y7Tf-2fcgFXDMhB/MLjGEbTaZr_HlB9hkkr-9H0CdrqM5M_oU29HpnohfSQ",
     "categoria": "Altro",
     "provincia": "Firenze",
     "comune": "Barberino di Mugello",
