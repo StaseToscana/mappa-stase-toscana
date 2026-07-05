@@ -361,7 +361,7 @@
     const data = await res.json();
     // Converti formato JSON nel formato che si aspetta il codice
     return data.map((e, i) => ({
-      id: 'json_' + i,
+      id: e.id || ('json_' + i),
       fields: {
         'Nome evento': e.nome,
         'Locandina': e.locandina ? [{ url: e.locandina }] : null,
@@ -371,6 +371,7 @@
         'Indirizzo completo': e.indirizzo,
         'Riepilogo date': e.riepilogo_date,
         'Data sort': e.data_sort,
+        'data_fine': e.data_fine,
         'Apri su Google Maps': e.maps_url,
         'Lat': e.lat,
         'Lon': e.lon,
@@ -399,21 +400,27 @@
     if (filtro === 'tutti') return true;
     const d = fields['Data sort'];
     if (!d) return false;
-    const data = parseData(d);
-    if (!data) return false;
+    const dataInizio = parseData(d);
+    if (!dataInizio) return false;
+    // Use data_fine for multi-day events, fallback to dataInizio
+    const dataFine = fields['data_fine'] ? parseData(fields['data_fine']) : dataInizio;
     const oggi = new Date(); oggi.setHours(0,0,0,0);
     const domani = new Date(oggi); domani.setDate(oggi.getDate() + 1);
     const day = oggi.getDay();
-    const sabato = new Date(oggi); sabato.setDate(oggi.getDate() + ((6 - day + 7) % 7));
+    // Calculate this weekend (Saturday and Sunday)
+    const sabato = new Date(oggi);
+    sabato.setDate(oggi.getDate() + ((6 - day + 7) % 7 || 7));
+    const domenica = new Date(sabato); domenica.setDate(sabato.getDate() + 1);
+    const fineDomenica = new Date(domenica); fineDomenica.setDate(domenica.getDate() + 1);
+    // This week = today until next Monday
     const lunedi = new Date(oggi); lunedi.setDate(oggi.getDate() + ((8 - day) % 7 || 7));
     const tra30 = new Date(oggi); tra30.setDate(oggi.getDate() + 30);
-    if (filtro === 'oggi') return data >= oggi && data < domani;
-    if (filtro === 'weekend') {
-      const fineDomenica = new Date(sabato); fineDomenica.setDate(sabato.getDate() + 2);
-      return data >= sabato && data < fineDomenica;
-    }
-    if (filtro === 'settimana') return data >= oggi && data < lunedi;
-    if (filtro === 'mese') return data >= oggi && data <= tra30;
+    
+    // Event is "active" in a period if it starts before period ends AND ends after period starts
+    if (filtro === 'oggi') return dataInizio <= oggi && dataFine >= oggi;
+    if (filtro === 'weekend') return dataInizio < fineDomenica && dataFine >= sabato;
+    if (filtro === 'settimana') return dataInizio < lunedi && dataFine >= oggi;
+    if (filtro === 'mese') return dataInizio <= tra30 && dataFine >= oggi;
     return true;
   }
 
@@ -513,7 +520,7 @@
             ${quando ? `<div class="popup-quando">📅 ${quando}</div>` : ''}
             ${luogo ? `<div class="popup-luogo">📍 ${luogo}</div>` : ''}
             <a href="${mapsUrl}" target="_blank" class="popup-btn" style="background:${cat.bg}">🗺️ Google Maps</a>
-            <a href="https://luis70695.softr.app/eventi?search=${encodeURIComponent(nome)}" target="_blank" class="popup-btn" style="background:#333;margin-top:6px;display:inline-block;">📋 Vedi in archivio</a>
+            ${record.id && record.id.startsWith('rec') ? `<a href="https://luis70695.softr.app/eventi-details?recordId=${record.id}" target="_blank" class="popup-btn" style="background:#333;margin-top:6px;display:inline-block;">📋 Vedi dettagli</a>` : ''}
 
           </div>
         `;

@@ -1,5 +1,21 @@
 [
   {
+    "id": "recbsMO5J8ylOGpvs",
+    "nome": "Un'estate di storie",
+    "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/1YUrMxc83Br4qcWfXRtKlQ/iTvVETbfzyFt8QdC5CjkTOWyM519Bv9Mxf2KdSVIC7bpEcDKLEyr37pUtQekgnO81BKAeMoQ12Fjndv7wGz6KFAhjPNCIp3EwreJpysqpnYGtk9nkZ376ijfYg4I3R25prNABm8o_Op3uBCJLwmmMVrYm_16jyX2z4nXFPJUGYXxl0440r70O5e6uq5AuwAW/IC9uoSp-c_IsnSLpKr0wrdi3YV_as4b5pj_PZUxtp9M",
+    "categoria": "Altro",
+    "provincia": "Livorno",
+    "comune": "Cecina, Marina di Cecina",
+    "indirizzo": "Viale Galliano, Cecina, Marina di Cecina , Livorno, Toscana, Italia",
+    "riepilogo_date": "Ogni Mercoledì · dal 01/07 al 26/08 · 17:30",
+    "data_sort": "2026-07-01",
+    "data_fine": "2026-08-26",
+    "maps_url": "https://maps.google.com/?q=Viale+Galliano,+Cecina,+Marina+di+Cecina+,+Livorno",
+    "lat": 43.3,
+    "lon": 10.5
+  },
+  {
+    "id": "recPIiUeoqMISEW2x",
     "nome": "CINEMURA",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/xfZkNf_lJKjpBxL3kRi3bA/VnA5fvHH3EBjft_5u1zt4V2Js9k4shC-NFbuvWIXU1pqTKuWaenL9OruHPUxA4tWjJswRjFQdIWBaubCYD--h4PoEd_hNF0ajLkCWMAoYl0oTRlZBka02IMbigRPyH80r353Paa6xNE-IOgGVtgnfUpE5Pho7h8lGXd8twbhF4Y/fUxVdzRCOvyqutQJHi2V8YpDb6rCge-cXJGIpBxhoMA",
     "categoria": "Altro",
@@ -8,11 +24,13 @@
     "indirizzo": "piazza Amos Nannini 12, Grosseto, Grosseto, Toscana, Italia",
     "riepilogo_date": "Dal 05/07 al 07/07 · ogni sera 19:30",
     "data_sort": "2026-07-05",
+    "data_fine": "2026-07-07",
     "maps_url": "https://maps.google.com/?q=piazza+Amos+Nannini+12,+Grosseto,+Grosseto",
     "lat": 42.8,
     "lon": 11.1
   },
   {
+    "id": "recZBL4PzlqNbjDnj",
     "nome": "Filo d'identità -Incontri, storie, corpi",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/3Yu9cJnA-wlKmsObg4yfdQ/jZL7s8oVi59tqwn3rCr9TZUALbu5rW-n0UlORDVNAnQUal30w3oRwtsX_YdbW7FFWl0G1-_rgntd1GjqsAaGmN2HZwesDv-fsCHrRdykArm3hW0v9ZMTBxvll9_3cP6l1K_PGI9GSem7W6mbY8CUE84KEKEaQ_9UGTGRoOVt-QpTCFLDDXGlGY19TFit_XqT/aNHYRa2N-Aes3VonU69zVxVMz_72AknB5Hfr0sR2tv4",
     "categoria": "Festival",
@@ -21,11 +39,13 @@
     "indirizzo": ", 56020 Montopoli, Pisa, Toscana, Italia",
     "riepilogo_date": "Dal 06/07 al 12/07 · ogni sera 20:00",
     "data_sort": "2026-07-06",
+    "data_fine": "2026-12-07",
     "maps_url": "https://maps.google.com/?q=,+56020+Montopoli,+Pisa",
     "lat": 43.7,
     "lon": 10.7
   },
   {
+    "id": "recSsoVhOqmcn3nrs",
     "nome": "Bombicci Vibes - Fucecchio",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/CBH499zWe-_9eyIhlMBoWg/3r5x59MBb1ZewhGBLmDMtqyj0OzfXkF6QQK1M4QgbCtmdg9dwIs8C921vm4uX4vHlqyUqiSYhSN_msjMq3dTrk3WY4ijn8_CO9LI6MFBQDgjx41V4e8EMoLj2DkOxCi2M_USnPpp7JxlN1BJO4OVoPwOmBZNYs2L-P52eUJhuHrPhoXX7VTWo8r5-7hswdLHS6MjMb16u7Kz0-3EBVpBeg/dvECKZhERKZxMDXMr8u2YQ5XEjaSRbAruiGPnkrguro",
     "categoria": "Altro",
@@ -34,11 +54,13 @@
     "indirizzo": "Via Cesare Battisti, Fucecchio, Firenze, Toscana, Italia",
     "riepilogo_date": "Ogni Mercoledì · dal 08/07 al 22/07 · 19:00",
     "data_sort": "2026-07-08",
+    "data_fine": "2026-07-22",
     "maps_url": "https://maps.google.com/?q=Via+Cesare+Battisti,+Fucecchio,+Firenze",
     "lat": 43.7,
     "lon": 10.8
   },
   {
+    "id": "recVo4PJFKQi9nyw8",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/2UHG-GtDYv-Z9Lzm7Dgrqg/xRGYO3q6kAZu8w4DXReKaWvuDsg-Bhcz_4kP0xrP13hMJpHP4nQZD82zFPW6j7Orl9NWIQMeLVaDaTfJLEU11nf2yjNb4avl9p1o_FqAbWx1_nRYHAA9myEeaDJcXTGoPod0UO93pooDY_b0pPgktx_LCVTTLJNVmLYaotwTG-o/oYAIc9AsxKwxs1-_IzBn8Rc06OyK7W-DrhFgcwWwY2U",
     "categoria": "Festival",
@@ -47,11 +69,13 @@
     "indirizzo": "Barberino Outlet, Barberino Di Mugello, Firenze, Toscana, Italia",
     "riepilogo_date": "Ogni Giovedì · dal 09/07 al 20/08 · 21:00",
     "data_sort": "2026-07-09",
+    "data_fine": "2026-08-20",
     "maps_url": "https://maps.google.com/?q=Barberino+Outlet,+Barberino+Di+Mugello,+Firenze",
     "lat": 44.0,
     "lon": 11.2
   },
   {
+    "id": "recpAVDuZTQ62A7tL",
     "nome": "Pop Up",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/NgVMx6Ablixp3rKjECpyoA/UoNTbQIL8Awz483bhRg2TCnE7cU2LDio80xnO-Q4sFtrqIxHE3pcxCrdBxWMARsDIBSiIYr-AIsvE31ahFkYTgE93LmoprghngT4t72fCcJ1aXt9O_65EPrB63rBAXAwswyYMZzpgjAu9kEGSO8s0dAFTojCq3GaW2BpZOks9VmWrYho1WnmGKQP2ijfk88E/UMce_lseCYjtD9L5qlYTe77JLno9-zul_af-4Gd45g0",
     "categoria": "Spettacolo teatrale",
@@ -60,11 +84,13 @@
     "indirizzo": "piazza Amos Nannini 12, Grosseto, Grosseto, Toscana, Italia",
     "riepilogo_date": "09/07/2026 · 19:30",
     "data_sort": "2026-07-09",
+    "data_fine": "2026-07-09",
     "maps_url": "https://maps.google.com/?q=piazza+Amos+Nannini+12,+Grosseto,+Grosseto",
     "lat": 42.8,
     "lon": 11.1
   },
   {
+    "id": "recDVFoCCvP8oJ2KP",
     "nome": "Non solo barzellette di Alessandro Paci",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/exoxnwM6iLTuNhhuZEdWmg/zI8hMkupjEhLu84lfbkZUJ0XX6PZDC8kYlR5AwzjrHqvAT92CfuxmAzlxk4lnNxBB8DsSUfF8staKCA5PV51ObNY5IuzrNifRnmeI7-E4RkfX1qlW-Q2le53H7BGznQCRKTzBM0F8ovvr8Z8iXFmnj0Sb6jEXK5QL8mL9nb27-g/UuiRIiyQFfO3eqooXG6qfBltVxRyQ0hQE5SFp3i2elA",
     "categoria": "Spettacolo teatrale",
@@ -73,11 +99,13 @@
     "indirizzo": "Via Pablo neruda 2 , Scandicci , Firenze, Toscana, Italia",
     "riepilogo_date": "09/07/2026 · 21:00",
     "data_sort": "2026-07-09",
+    "data_fine": "2026-07-09",
     "maps_url": "https://maps.google.com/?q=Via+Pablo+neruda+2+,+Scandicci+,+Firenze",
     "lat": 43.8,
     "lon": 11.2
   },
   {
+    "id": "recaAYfcHBfCQVsE7",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/Qki19sVpcOCfdfca46nwXA/3VYQjZ5ZJ_5su0Wv3KVCQX2JizG75yOD8d3S1wd2CamDOO_G1oj0je5DL8Cplys5Lxs2cXu4zodhkoi5ZjSZsulKpwp42HuB6SBIEFZRHv1AJqqIznmzNAs7ibC9QnxKSjnZXxuvDXUEs1sYQnHt6pxRvRKbp7v0fZI74tJ6IqFHBfvg0xkZTEbOsnI_EQ1M/6t11DuBJ52ZZ6tpKnMAwIBjFk4IQFlanJ9BeHrBYfyw",
     "categoria": "Concerto",
@@ -86,11 +114,13 @@
     "indirizzo": "Barberino Outlet, Barberino di Mugello, Firenze, Toscana, Italia",
     "riepilogo_date": "09/07/2026 · 19:00",
     "data_sort": "2026-07-09",
+    "data_fine": "2026-07-09",
     "maps_url": "https://maps.google.com/?q=Barberino+Outlet,+Barberino+di+Mugello,+Firenze",
     "lat": 44.0,
     "lon": 11.2
   },
   {
+    "id": "recQiP7ZLXEejRsxd",
     "nome": "Biblio Marina la biblioteca del mare",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/B-Uk1_GceEUUsQmRv5R09w/bqARQLB-fgENF2QGq-C-eRU7BCF4FHVDwOYbrJ_YHF2qX0_H92aW6Ljz_QeXocqEkCWaXJQmOnxZg4G6ZHLdYm3b5zNM6NbYEYHqKQEMMJmbK9rGNuhjU6Aa453rqDVKhm1QSCSBf5P_i4mSLXFaA0VLpxiwHuiDJzMtwyRpdxRouF-ayz0DeP1VnnivVHjB/DwnbrrkS2XHwwfHAXJB2jC9Tn4Z74Stli-0-PrUsdiw",
     "categoria": "Altro",
@@ -99,11 +129,13 @@
     "indirizzo": "Viale Galliano , Cecina, Marina di Cecina , Livorno, Toscana, Italia",
     "riepilogo_date": "Ogni Lunedì, Venerdì · dal 10/07 al 31/08 · 09:00",
     "data_sort": "2026-07-10",
+    "data_fine": "2026-08-31",
     "maps_url": "https://maps.google.com/?q=Viale+Galliano+,+Cecina,+Marina+di+Cecina+,+Livorno",
     "lat": 43.3,
     "lon": 10.5
   },
   {
+    "id": "recFsoxyD7ky04EHp",
     "nome": "Viaggia insieme a me - Sagra del Pane e pomodoro",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/imjzorxdB6KqMA3sqhnGeA/KbybJCux3M_LQo57Z3CKm1tMjYJP-oSxptDCPAyNaR9WT0D-D6wpcIRS30b4nVqNvWfIg9r98VKNXaMa39RPZtbMipHyPljvXApm1U07uLmMlts8hts3kRSWEHwXGG94MUf0S_0KoDDUqOtkspd13xUFnpMEnMlFDTnzZ5ZxVFU/IMTxIbjjYZyFnrFqTnmBTJfCtpZZoJKQ9KW1E5ZlIpw",
     "categoria": "Serata/Discoteca",
@@ -112,11 +144,13 @@
     "indirizzo": "Via Karl Marx 12, Livorno, Stagno, Livorno, Toscana, Italia",
     "riepilogo_date": "10/07 ore 21:30 → 11/07 ore 02:00",
     "data_sort": "2026-07-10",
+    "data_fine": "2026-11-07",
     "maps_url": "https://maps.google.com/?q=Via+Karl+Marx+12,+Livorno,+Stagno,+Livorno",
     "lat": 43.6,
     "lon": 10.4
   },
   {
+    "id": "reco96SEsRFuw0vyQ",
     "nome": "Consuma che ti passa",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/Nbjb7nQvWBYcNC5RxPtnPg/BeL5RFWfwxQ9wFDTXJxNj0ih_E8SnNfRXeZb48Ttw5bOAXWh5ggi8cuIt4qNSWfMWQ5Zhz8pyTpfKR2VN6N5htFubeUjSZy9yuMgs43_j59ns_gdQm-hkmB75YD9bl2HZ1YsD6tYWN2dH8xQ7quTRcZBzp0n4vYLXXqHiEIMgIb2jteegUX0SetwIBoexzSTv5gaLaRkvhQkYOSNASWb4g/vAd_xc8uHIMLPbXeFmq7t6cjFRR1YCcWMnXxuzFvigQ",
     "categoria": "Altro",
@@ -125,11 +159,13 @@
     "indirizzo": ", Montemignaio, Arezzo, Toscana, Italia",
     "riepilogo_date": "11/07/2026 · 18:30",
     "data_sort": "2026-07-11",
+    "data_fine": "2026-07-11",
     "maps_url": "https://maps.google.com/?q=,+Montemignaio,+Arezzo",
     "lat": 43.7,
     "lon": 11.6
   },
   {
+    "id": "recULzP9y8S2cMyPG",
     "nome": "PESALO!",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/v5JoLK4B1jlC5C6EfH0HPQ/Gt4VIGkrybQP4hX95qKUPBqNIIRkuNW4CfTz311h7SARTh0CIVvQl9rLBNKXMEfVyNvqUBmndZEtxiCNkP3Gzyz_UczOrm77j7ATVkFYIZhowMxKtER-LSjV1AchLgPwa2DVvwcWMh4faTy7v1hdGiiNZ9xBAHg-7RTJGlqQWHk/BKepCxo8jw1Wnjztvi137t408c7PNYaNN7RjVGp_hj8",
     "categoria": "Mercato",
@@ -138,11 +174,13 @@
     "indirizzo": "Via Vittorio Emanuele, 52, Calenzano, FI, Firenze, Toscana, Italia",
     "riepilogo_date": "Dal 11/07 al 12/07 · ogni sera 08:30",
     "data_sort": "2026-07-11",
+    "data_fine": "2026-12-07",
     "maps_url": "https://maps.google.com/?q=Via+Vittorio+Emanuele,+52,+Calenzano,+FI,+Firenze",
     "lat": 43.8,
     "lon": 11.2
   },
   {
+    "id": "rec7N1nmwOEByXMdz",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/EM2KYPB3oKhcdArww9P0Xg/9xE9cspc8hcJAd2vNRUSesYnxiBWa9C5LUVP8PYCHsnkx72BAhGyydiSIBQv5XHXb-IxlS5WC-q5Jo-qpqArCRhScG5I6MORWLmickyIYUwYPiRAxWBuduhoV0I2SCA0K6MpvL-BF7eXWa_CEPAwjwqgEU1aVH-80_3aSPd2V41bw7jPPzAyVRPAstAHV5yG/wpdTVQyES4GUYGS0wlObNGG9jpOPy0k4dCEwVQt3JDU",
     "categoria": "Concerto",
@@ -151,11 +189,13 @@
     "indirizzo": "Barberino Outlet, Barberino di Mugello, Firenze, Toscana, Italia",
     "riepilogo_date": "16/07/2026 · 19:00",
     "data_sort": "2026-07-16",
+    "data_fine": "2026-07-16",
     "maps_url": "https://maps.google.com/?q=Barberino+Outlet,+Barberino+di+Mugello,+Firenze",
     "lat": 44.0,
     "lon": 11.2
   },
   {
+    "id": "recBOVgbJci1bpcZf",
     "nome": "Workshop di Ceramica",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/1HOytDQkeeyDQmYEWEzG0g/Mre4htXoktC4nSv7jueHSzsxYfxuOYsxn4ewSf_bpquSfF9qDq5EAXN9d5vmAusJXPdCmG20DcK_D7NcHJzdXrxKAsf6XmqsXPgAcP2CbEQ8-59sWQURdNC-DRvkSSV3GZHdvFZQpJ0fdLsgJiSaVHHO87soNo7LgdmKNSrYTIJPyfIm4zxhHXxFy0rO4_6C/HvoXfMCz_trVgkszu5AAb2em4T5Ho2peCyrPn95oloM",
     "categoria": "Altro",
@@ -164,11 +204,13 @@
     "indirizzo": "Via del Pavone 1, Lucca, Lucca, Toscana, Italia",
     "riepilogo_date": "18/07/2026 · 18:00",
     "data_sort": "2026-07-18",
+    "data_fine": "2026-07-18",
     "maps_url": "https://maps.google.com/?q=Via+del+Pavone+1,+Lucca,+Lucca",
     "lat": 43.8,
     "lon": 10.5
   },
   {
+    "id": "recQkAWJnDafR1Esh",
     "nome": "Fabbrica Art&Food",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/oTHspghPjXemWAYUc1JXMA/gbTfEWxXgA_HLKd5BwegaeNfeG5Onw1_Lj0JxU4t-myEfYZe8fpOXxBHGugj1nkIK-_0xRpAL2GqUI00xbJ3XuC65NofUZTElOLXGYpeGuurtBl9WlwH0gf636MmeSQqiJM0PG10bMbWh7nnJc1ce1I2sxZ3WpNbdwyolp_fxWT5YTt-XikkDeUj1K7GlcPL/1tf8O1hXWPi_EIb281wv2oLAOXIEY8vP3ii4pumH6K0",
     "categoria": "Festa paesana",
@@ -177,11 +219,13 @@
     "indirizzo": ", Fabbrica di Peccioli, Pisa, Toscana, Italia",
     "riepilogo_date": "Dal 18/07 al 19/07 · ogni sera 10:00",
     "data_sort": "2026-07-18",
+    "data_fine": "2026-07-19",
     "maps_url": "https://maps.google.com/?q=,+Fabbrica+di+Peccioli,+Pisa",
     "lat": 43.5,
     "lon": 10.8
   },
   {
+    "id": "rec6IrGn4xGK43KT5",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/zIKttgmx7FsAHWDe1ULL8w/dJoJVapSEN9gnywzLLG2EueuBGZRFpq94tSzynNOJ-8oLis3THMgEOdCFQ93cpSSEi0AeRBUvyxZkKfkj7j-jPMKtkwbGOerwA112g0XRT1IvR7iScKkUdmgg7ugoJUmgsVzwQQID8i4CBVRIBqSXxqS5UXey0UNUF-tkKgBq821Z7HPfXk-wvbYrJaV6qTE/XqE6bqXtCtUjwIJlTrnXgqelp18yunJaAkerMDOq61o",
     "categoria": "Concerto",
@@ -190,11 +234,13 @@
     "indirizzo": "Barberino Outlet, Barberino di Mugello, Firenze, Toscana, Italia",
     "riepilogo_date": "23/07/2026 · 19:00",
     "data_sort": "2026-07-23",
+    "data_fine": "2026-07-23",
     "maps_url": "https://maps.google.com/?q=Barberino+Outlet,+Barberino+di+Mugello,+Firenze",
     "lat": 44.0,
     "lon": 11.2
   },
   {
+    "id": "recdiVBjNqbNqmQd0",
     "nome": "Workshop di Formatura in Gesso",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/tBDJDLMgR642z8kxopKA0w/NpvUb5E77ME74VyO1nsf4V-78xSCZOvrQMyZv1QBp2ML4BLEaVnj4Cl0vMItMqW4aoY823EczygJCK8_SVFeWn0TlKnXQ2ZwlX5UUUpWUeX6LedvyzESKml_ouklR9O8gGohBKI5-UT-BrNBTSEldC1G-m_SxX-nqIW7Sp9p4VA/dxp4JKMMXJgiEwYc5cw1XH0wy7QzG9CtpWko4eewaxo",
     "categoria": "Altro",
@@ -203,11 +249,13 @@
     "indirizzo": "Via del Pavone 1, Lucca, Lucca, Toscana, Italia",
     "riepilogo_date": "Dal 25/07 al 26/07 · ogni sera 18:00",
     "data_sort": "2026-07-25",
+    "data_fine": "2026-07-26",
     "maps_url": "https://maps.google.com/?q=Via+del+Pavone+1,+Lucca,+Lucca",
     "lat": 43.8,
     "lon": 10.5
   },
   {
+    "id": "reckBQEHhBx8bIF9W",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/BOGI6ZmT-8lKgz1kX7L-sA/7F_pGc6skEdAvzmCCruvSqnBASOZDBM_WkOQxOMGbSu8wpypwMdv6C27IV5k5cbEAbE4TjAipHXc4N8qBg0WJQ_8uBS2g5DTVyGl3podwLVDwj6_V3sjwu42O0TkmV8D_HU6Yj7c9DxGErWdeF_IONgNueQhqNv7cdtqFeZOR5LDwxxELaT1Sai9VZ_zfIw1/WAGh2ACHbo4UroAYQxb6NSS97RI84x4ypi0iZFgTbQE",
     "categoria": "Concerto",
@@ -216,11 +264,13 @@
     "indirizzo": "Barberino Outlet, Barberino di Mugello, Firenze, Toscana, Italia",
     "riepilogo_date": "30/07/2026 · 19:00",
     "data_sort": "2026-07-30",
+    "data_fine": "2026-07-30",
     "maps_url": "https://maps.google.com/?q=Barberino+Outlet,+Barberino+di+Mugello,+Firenze",
     "lat": 44.0,
     "lon": 11.2
   },
   {
+    "id": "recL5ULyQM8AVAXQz",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/-5OAAHi9DElRCp70f71r8A/ewXwXAPYnCwu1lMVNoaY8_eo4PZoSNay3HtEsvXfYfHWNf8F7PdwBIVpaL6pASVvQUvoL3CJGxqhb3HEwGWTzTDPkXdNhE__vk68iy9Ah6LImKiE0Hel-qeXRgAZ1uxHYUsp65lP87ucphxFOglQZQgb9Q9CUPSH0pfpkhXWGfgKTX6xGSXzxDCWJcuaWnDZ/CeT-aUSxq1L0BuE5pWQCPUBmwgkLfSGJHSfBoAY-y14",
     "categoria": "Concerto",
@@ -229,11 +279,13 @@
     "indirizzo": "Barberino Outlet, Barberino di Mugello, Firenze, Toscana, Italia",
     "riepilogo_date": "06/08/2026 · 19:00",
     "data_sort": "2026-08-06",
+    "data_fine": "2026-08-06",
     "maps_url": "https://maps.google.com/?q=Barberino+Outlet,+Barberino+di+Mugello,+Firenze",
     "lat": 44.0,
     "lon": 11.2
   },
   {
+    "id": "recpCeC6jEJkn72kG",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/UOBDeGr9RFlQXeuIZbQIiw/kNqMODXP5s96zmFuStISg5ZmeuDxuxAkVt4j08vBEuk8JSeB279eb4twiaBXN5hKgSbxv_03Sd7Ey5V4hoytBIPm4m6HU7IYEQMEBLvH4ljJuDTAN8JgGMA4mAJS0FodTL1R7AYuMjSUgmWyLU1BP5hjlbaFOiXrBIMGj_t-NKS7qVAl1CD6AMQ8VjQJ_3AV/jOCUNGbRBL2v4oT5B3xgiTLCrZTzN4rg-kJmHbpqoew",
     "categoria": "Altro",
@@ -242,11 +294,13 @@
     "indirizzo": "Barberino Outlet, Barberino di Mugello, Firenze, Toscana, Italia",
     "riepilogo_date": "13/08/2026 · 19:00",
     "data_sort": "2026-08-13",
+    "data_fine": "2026-08-13",
     "maps_url": "https://maps.google.com/?q=Barberino+Outlet,+Barberino+di+Mugello,+Firenze",
     "lat": 44.0,
     "lon": 11.2
   },
   {
+    "id": "recmwGK8JIlg3AJqE",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/w0oSnAHuF_7FGutYDrlSeg/E-UzP9x4pYomP1Cp3SqkNCGJTc80ceqglDO6qTIDkDgVj_bMx2_PSpMf3gnBmXxWSpueQRY2CKgC4Dcmu2gwWpXFNkzCKsUhcgTB-TNIn6bNWBUPRD8K-rGGGhk0h74kowlNuCK0H_wNHwu_x8VHJs6xKnCn1-u4d62z8JK3m00/w_Put29FvFRWaKWdpb0rAmi15i54nljKNnKDDeN73FU",
     "categoria": "Concerto",
@@ -255,11 +309,13 @@
     "indirizzo": "Barberino Outlet, Barberino Di Mugello, Firenze, Toscana, Italia",
     "riepilogo_date": "20/08/2026 · 21:00",
     "data_sort": "2026-08-20",
+    "data_fine": "2026-08-20",
     "maps_url": "https://maps.google.com/?q=Barberino+Outlet,+Barberino+Di+Mugello,+Firenze",
     "lat": 44.0,
     "lon": 11.2
   },
   {
+    "id": "recktLnyybRV7cu4s",
     "nome": "Arkana 202",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/XAVs7NACWay4JEa7eG6bew/KjzydbTh3aKUud8xeUjkPD5dPdMh1EU3qRlaN7sLNIfW3TEpahjCeX-fJ9jI5wtE9ufZ3Eq-rNvbMzGpfCZvTS8Tm_5NQmmRPsz8MIQ8v-kqf3cguDyKTS7kue-CzWlYXqV-enYrJ8eUYVclLQDLvz3ImHjwAq6SBbxuYxLSB8mA537ycmPv8jAq1SeK6R02/KLCrO3QSLKElCSRKhp-ylaFmJ7MzXYR2eY_ZJpJOY2g",
     "categoria": "Festival",
@@ -268,6 +324,7 @@
     "indirizzo": "Via di Castelvecchio, Capannori, Lucca, Toscana, Italia",
     "riepilogo_date": "29/08/2026 · 17:30",
     "data_sort": "2026-08-29",
+    "data_fine": "2026-08-29",
     "maps_url": "https://maps.google.com/?q=Via+di+Castelvecchio,+Capannori,+Lucca",
     "lat": 43.8,
     "lon": 10.6
