@@ -378,26 +378,29 @@
     }));
   }
 
-  function isFuturo(r) {
-    const d = r.fields['Data sort'];
-    if (!d) return true; // no date = show it
+  function parseData(d) {
+    if (!d) return null;
     try {
       const parts = d.split('-');
-      const dataEvento = new Date(parseInt(parts[0]), parseInt(parts[1])-1, parseInt(parts[2]));
-      const oggi = new Date(); oggi.setHours(0,0,0,0);
-      return dataEvento >= oggi;
-    } catch(e) { return true; }
+      return new Date(parseInt(parts[0]), parseInt(parts[1])-1, parseInt(parts[2]));
+    } catch(e) { return null; }
+  }
+
+  function isFuturo(r) {
+    const d = r.fields['Data sort'];
+    if (!d) return true;
+    const dataEvento = parseData(d);
+    if (!dataEvento) return true;
+    const oggi = new Date(); oggi.setHours(0,0,0,0);
+    return dataEvento >= oggi;
   }
 
   function inPeriodo(fields, filtro) {
     if (filtro === 'tutti') return true;
     const d = fields['Data sort'];
     if (!d) return false;
-    let data;
-    try {
-      const parts = d.split('-');
-      data = new Date(parseInt(parts[0]), parseInt(parts[1])-1, parseInt(parts[2]));
-    } catch(e) { return false; }
+    const data = parseData(d);
+    if (!data) return false;
     const oggi = new Date(); oggi.setHours(0,0,0,0);
     const domani = new Date(oggi); domani.setDate(oggi.getDate() + 1);
     const day = oggi.getDay();
