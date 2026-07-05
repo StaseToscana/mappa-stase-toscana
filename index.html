@@ -379,16 +379,25 @@
   }
 
   function isFuturo(r) {
-    const d = r.fields['Data sort'] || r.fields['Data inizio'] || r.fields['Data inizio consec'] || r.fields['Data primo appuntamento'];
-    if (!d) return true;
-    return new Date(d) >= new Date(new Date().setHours(0,0,0,0));
+    const d = r.fields['Data sort'];
+    if (!d) return true; // no date = show it
+    try {
+      const parts = d.split('-');
+      const dataEvento = new Date(parseInt(parts[0]), parseInt(parts[1])-1, parseInt(parts[2]));
+      const oggi = new Date(); oggi.setHours(0,0,0,0);
+      return dataEvento >= oggi;
+    } catch(e) { return true; }
   }
 
   function inPeriodo(fields, filtro) {
     if (filtro === 'tutti') return true;
-    const d = fields['Data sort'] || fields['Data inizio'] || fields['Data inizio consec'] || fields['Data primo appuntamento'];
+    const d = fields['Data sort'];
     if (!d) return false;
-    const data = new Date(d);
+    let data;
+    try {
+      const parts = d.split('-');
+      data = new Date(parseInt(parts[0]), parseInt(parts[1])-1, parseInt(parts[2]));
+    } catch(e) { return false; }
     const oggi = new Date(); oggi.setHours(0,0,0,0);
     const domani = new Date(oggi); domani.setDate(oggi.getDate() + 1);
     const day = oggi.getDay();
@@ -501,6 +510,7 @@
             ${quando ? `<div class="popup-quando">📅 ${quando}</div>` : ''}
             ${luogo ? `<div class="popup-luogo">📍 ${luogo}</div>` : ''}
             <a href="${mapsUrl}" target="_blank" class="popup-btn" style="background:${cat.bg}">🗺️ Google Maps</a>
+            <a href="https://luis70695.softr.app/eventi?search=${encodeURIComponent(nome)}" target="_blank" class="popup-btn" style="background:#333;margin-top:6px;display:inline-block;">📋 Vedi in archivio</a>
 
           </div>
         `;

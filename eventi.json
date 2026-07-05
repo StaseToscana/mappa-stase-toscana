@@ -1,5 +1,6 @@
 [
   {
+    "id": "",
     "nome": "Consuma che ti passa",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/Nbjb7nQvWBYcNC5RxPtnPg/BeL5RFWfwxQ9wFDTXJxNj0ih_E8SnNfRXeZb48Ttw5bOAXWh5ggi8cuIt4qNSWfMWQ5Zhz8pyTpfKR2VN6N5htFubeUjSZy9yuMgs43_j59ns_gdQm-hkmB75YD9bl2HZ1YsD6tYWN2dH8xQ7quTRcZBzp0n4vYLXXqHiEIMgIb2jteegUX0SetwIBoexzSTv5gaLaRkvhQkYOSNASWb4g/vAd_xc8uHIMLPbXeFmq7t6cjFRR1YCcWMnXxuzFvigQ",
     "categoria": "Altro",
@@ -13,6 +14,7 @@
     "lon": 11.6
   },
   {
+    "id": "",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/2UHG-GtDYv-Z9Lzm7Dgrqg/xRGYO3q6kAZu8w4DXReKaWvuDsg-Bhcz_4kP0xrP13hMJpHP4nQZD82zFPW6j7Orl9NWIQMeLVaDaTfJLEU11nf2yjNb4avl9p1o_FqAbWx1_nRYHAA9myEeaDJcXTGoPod0UO93pooDY_b0pPgktx_LCVTTLJNVmLYaotwTG-o/oYAIc9AsxKwxs1-_IzBn8Rc06OyK7W-DrhFgcwWwY2U",
     "categoria": "Festival",
@@ -26,6 +28,7 @@
     "lon": 11.2
   },
   {
+    "id": "",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/w0oSnAHuF_7FGutYDrlSeg/E-UzP9x4pYomP1Cp3SqkNCGJTc80ceqglDO6qTIDkDgVj_bMx2_PSpMf3gnBmXxWSpueQRY2CKgC4Dcmu2gwWpXFNkzCKsUhcgTB-TNIn6bNWBUPRD8K-rGGGhk0h74kowlNuCK0H_wNHwu_x8VHJs6xKnCn1-u4d62z8JK3m00/w_Put29FvFRWaKWdpb0rAmi15i54nljKNnKDDeN73FU",
     "categoria": "Concerto",
@@ -39,6 +42,7 @@
     "lon": 11.2
   },
   {
+    "id": "",
     "nome": "JOLE",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/BlZ1tkQHFv8Kcc36wKCv3w/QH6a1iQ-sE0rA2XfcRBydczJPy6_YjMSlZJmo8taMW1au8rjYHvoQFtm0gsLrbP7_GypemhTQpTq-Q8Ba3-X2svSqI7570jhEDVFoNEzQp0ebSna4ixEDFpmxVgvs3SNTMJNNTgYCNOJnHrUHQ0ed1IhnhJuj1k59-M9HWGwtII/H5wlwiO64CwKibiELtqNdkAnKrNPY7De149AerBBfA8",
     "categoria": "Concerto",
@@ -52,6 +56,7 @@
     "lon": 11.1
   },
   {
+    "id": "",
     "nome": "Road To Margini",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/QSDEgahRjjV8_iEkvs0a7g/ph5oMQspoPJKdtmL7C1Wb6xuZY2Ek1o1JSbL-bx3G4dP9k34_DaDpWt9WPIsa-irdTvsOx28mJulo8zet40PCshofbsGfBd7yFGx5ItBH4LgS29od2KnWvCQvBQc2_Ccuo1oHUEyaWV50C-8a2zHASEBP4DT_hch94_lwctBuiw/Qi3yLg0RqNyRwpi48SC8rY3S-Ckh70GNTQSEOAVO_dg",
     "categoria": "Festival",
@@ -65,6 +70,7 @@
     "lon": 11.1
   },
   {
+    "id": "",
     "nome": "CINEMURA",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/xfZkNf_lJKjpBxL3kRi3bA/VnA5fvHH3EBjft_5u1zt4V2Js9k4shC-NFbuvWIXU1pqTKuWaenL9OruHPUxA4tWjJswRjFQdIWBaubCYD--h4PoEd_hNF0ajLkCWMAoYl0oTRlZBka02IMbigRPyH80r353Paa6xNE-IOgGVtgnfUpE5Pho7h8lGXd8twbhF4Y/fUxVdzRCOvyqutQJHi2V8YpDb6rCge-cXJGIpBxhoMA",
     "categoria": "Altro",
@@ -78,6 +84,7 @@
     "lon": 11.1
   },
   {
+    "id": "",
     "nome": "Pop Up",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/NgVMx6Ablixp3rKjECpyoA/UoNTbQIL8Awz483bhRg2TCnE7cU2LDio80xnO-Q4sFtrqIxHE3pcxCrdBxWMARsDIBSiIYr-AIsvE31ahFkYTgE93LmoprghngT4t72fCcJ1aXt9O_65EPrB63rBAXAwswyYMZzpgjAu9kEGSO8s0dAFTojCq3GaW2BpZOks9VmWrYho1WnmGKQP2ijfk88E/UMce_lseCYjtD9L5qlYTe77JLno9-zul_af-4Gd45g0",
     "categoria": "Spettacolo teatrale",
@@ -91,6 +98,7 @@
     "lon": 11.1
   },
   {
+    "id": "",
     "nome": "The Steaks - 04/7 live @La Capannina - Ciciano",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/FTnk-L82lKMBG2hzY1U5cQ/wg4jDZo3cJOT3HmU9DLoQ4s_b-GWYy39dB79G96ZLM6xAuDAT9cYXHlhIbGY1cmFeB0lfroUAz7eix4cPVS6jT4UjVZHSggKgEUoUGeO8W2Fpmqmd8hTysQv3gFYUn6p1XRnOMY-5Q8buZ2I_zTzWMw08OKl0TVzvezGqTK0jzXKaaIpHSSASmrNL3SdLAsy/L4NXlKkKCkCt7Do7p8w5AhY9WWv_NbNtT8Qou1MdYz0",
     "categoria": "Festival",
@@ -104,6 +112,7 @@
     "lon": 11.1
   },
   {
+    "id": "",
     "nome": "Un'estate di storie",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/1YUrMxc83Br4qcWfXRtKlQ/iTvVETbfzyFt8QdC5CjkTOWyM519Bv9Mxf2KdSVIC7bpEcDKLEyr37pUtQekgnO81BKAeMoQ12Fjndv7wGz6KFAhjPNCIp3EwreJpysqpnYGtk9nkZ376ijfYg4I3R25prNABm8o_Op3uBCJLwmmMVrYm_16jyX2z4nXFPJUGYXxl0440r70O5e6uq5AuwAW/IC9uoSp-c_IsnSLpKr0wrdi3YV_as4b5pj_PZUxtp9M",
     "categoria": "Altro",
@@ -117,6 +126,7 @@
     "lon": 10.5
   },
   {
+    "id": "",
     "nome": "Biblio Marina la biblioteca del mare",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/B-Uk1_GceEUUsQmRv5R09w/bqARQLB-fgENF2QGq-C-eRU7BCF4FHVDwOYbrJ_YHF2qX0_H92aW6Ljz_QeXocqEkCWaXJQmOnxZg4G6ZHLdYm3b5zNM6NbYEYHqKQEMMJmbK9rGNuhjU6Aa453rqDVKhm1QSCSBf5P_i4mSLXFaA0VLpxiwHuiDJzMtwyRpdxRouF-ayz0DeP1VnnivVHjB/DwnbrrkS2XHwwfHAXJB2jC9Tn4Z74Stli-0-PrUsdiw",
     "categoria": "Altro",
@@ -130,6 +140,7 @@
     "lon": 10.5
   },
   {
+    "id": "",
     "nome": "PESALO!",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/v5JoLK4B1jlC5C6EfH0HPQ/Gt4VIGkrybQP4hX95qKUPBqNIIRkuNW4CfTz311h7SARTh0CIVvQl9rLBNKXMEfVyNvqUBmndZEtxiCNkP3Gzyz_UczOrm77j7ATVkFYIZhowMxKtER-LSjV1AchLgPwa2DVvwcWMh4faTy7v1hdGiiNZ9xBAHg-7RTJGlqQWHk/BKepCxo8jw1Wnjztvi137t408c7PNYaNN7RjVGp_hj8",
     "categoria": "Mercato",
@@ -143,6 +154,7 @@
     "lon": 11.2
   },
   {
+    "id": "",
     "nome": "Bombicci Vibes - Fucecchio",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/CBH499zWe-_9eyIhlMBoWg/3r5x59MBb1ZewhGBLmDMtqyj0OzfXkF6QQK1M4QgbCtmdg9dwIs8C921vm4uX4vHlqyUqiSYhSN_msjMq3dTrk3WY4ijn8_CO9LI6MFBQDgjx41V4e8EMoLj2DkOxCi2M_USnPpp7JxlN1BJO4OVoPwOmBZNYs2L-P52eUJhuHrPhoXX7VTWo8r5-7hswdLHS6MjMb16u7Kz0-3EBVpBeg/dvECKZhERKZxMDXMr8u2YQ5XEjaSRbAruiGPnkrguro",
     "categoria": "Altro",
@@ -156,6 +168,7 @@
     "lon": 10.8
   },
   {
+    "id": "",
     "nome": "Arno Sound Park",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/v3orHF1YWmc0GgyQ6RpHeg/2qnCi0L_L6uFcUkyv32EkBBm4EOrPhpu2N7wOv9Cd4C2GYsFY83fDeN1mOMXGNxglJ2sV8ZCanmDhJUMBkuphGAdvyaOsGc9IOkliVknZYdmVdGWYKcilo8FiZQWSSVRZYJhj5_QYpw8-9F_bizgu5S1Z7u_6tOWlMHfRO3pntuNTfvYASlUm23UStHMF4ke/mCoUtLgJTQa-NDsxz4Zil3CkFrrDmvAB-Vin7Lzy9y4",
     "categoria": "Festival",
@@ -169,6 +182,7 @@
     "lon": 11.1
   },
   {
+    "id": "",
     "nome": "Filo d'identità -Incontri, storie, corpi",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/3Yu9cJnA-wlKmsObg4yfdQ/jZL7s8oVi59tqwn3rCr9TZUALbu5rW-n0UlORDVNAnQUal30w3oRwtsX_YdbW7FFWl0G1-_rgntd1GjqsAaGmN2HZwesDv-fsCHrRdykArm3hW0v9ZMTBxvll9_3cP6l1K_PGI9GSem7W6mbY8CUE84KEKEaQ_9UGTGRoOVt-QpTCFLDDXGlGY19TFit_XqT/aNHYRa2N-Aes3VonU69zVxVMz_72AknB5Hfr0sR2tv4",
     "categoria": "Festival",
@@ -182,6 +196,7 @@
     "lon": 10.7
   },
   {
+    "id": "",
     "nome": "SOTTOVUOTO",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/4AibvpfhxG9Obgk6ia4ivQ/4pjLkMyZ5ZRYGzxyPqd4pF9qzarrN9tEdnqJFQOJFoU-di2WqYxi_EWDbscEPpolASl5_eQWkpwE-6wM_YRG9atdJ9rV67ppkbhyIYT0PsUHPKSpcnOFlwbFDWWGugGV9lWQgnFf_NhS2EOHkvieCC4MqumyzMNV6Muk4IUjYKIdqD19w3jW_7_3HH8_RkP1/Msmvd7w1EYJRo8oyjUu2POq6UjzK61mSssgJUZJYuo0",
     "categoria": "Mostra/Esposizione",
@@ -195,6 +210,7 @@
     "lon": 10.5
   },
   {
+    "id": "",
     "nome": "Workshop di Ceramica",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/1HOytDQkeeyDQmYEWEzG0g/Mre4htXoktC4nSv7jueHSzsxYfxuOYsxn4ewSf_bpquSfF9qDq5EAXN9d5vmAusJXPdCmG20DcK_D7NcHJzdXrxKAsf6XmqsXPgAcP2CbEQ8-59sWQURdNC-DRvkSSV3GZHdvFZQpJ0fdLsgJiSaVHHO87soNo7LgdmKNSrYTIJPyfIm4zxhHXxFy0rO4_6C/HvoXfMCz_trVgkszu5AAb2em4T5Ho2peCyrPn95oloM",
     "categoria": "Altro",
@@ -208,6 +224,7 @@
     "lon": 10.5
   },
   {
+    "id": "",
     "nome": "Workshop di Formatura in Gesso",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/tBDJDLMgR642z8kxopKA0w/NpvUb5E77ME74VyO1nsf4V-78xSCZOvrQMyZv1QBp2ML4BLEaVnj4Cl0vMItMqW4aoY823EczygJCK8_SVFeWn0TlKnXQ2ZwlX5UUUpWUeX6LedvyzESKml_ouklR9O8gGohBKI5-UT-BrNBTSEldC1G-m_SxX-nqIW7Sp9p4VA/dxp4JKMMXJgiEwYc5cw1XH0wy7QzG9CtpWko4eewaxo",
     "categoria": "Altro",
@@ -221,6 +238,7 @@
     "lon": 10.5
   },
   {
+    "id": "",
     "nome": "Fabbrica Art&Food",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/oTHspghPjXemWAYUc1JXMA/gbTfEWxXgA_HLKd5BwegaeNfeG5Onw1_Lj0JxU4t-myEfYZe8fpOXxBHGugj1nkIK-_0xRpAL2GqUI00xbJ3XuC65NofUZTElOLXGYpeGuurtBl9WlwH0gf636MmeSQqiJM0PG10bMbWh7nnJc1ce1I2sxZ3WpNbdwyolp_fxWT5YTt-XikkDeUj1K7GlcPL/1tf8O1hXWPi_EIb281wv2oLAOXIEY8vP3ii4pumH6K0",
     "categoria": "Festa paesana",
@@ -234,6 +252,7 @@
     "lon": 10.8
   },
   {
+    "id": "",
     "nome": "Viaggia insieme a me - Sagra del Pane e pomodoro",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/imjzorxdB6KqMA3sqhnGeA/KbybJCux3M_LQo57Z3CKm1tMjYJP-oSxptDCPAyNaR9WT0D-D6wpcIRS30b4nVqNvWfIg9r98VKNXaMa39RPZtbMipHyPljvXApm1U07uLmMlts8hts3kRSWEHwXGG94MUf0S_0KoDDUqOtkspd13xUFnpMEnMlFDTnzZ5ZxVFU/IMTxIbjjYZyFnrFqTnmBTJfCtpZZoJKQ9KW1E5ZlIpw",
     "categoria": "Serata/Discoteca",
@@ -247,6 +266,7 @@
     "lon": 10.4
   },
   {
+    "id": "",
     "nome": "Non solo barzellette di Alessandro Paci",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/exoxnwM6iLTuNhhuZEdWmg/zI8hMkupjEhLu84lfbkZUJ0XX6PZDC8kYlR5AwzjrHqvAT92CfuxmAzlxk4lnNxBB8DsSUfF8staKCA5PV51ObNY5IuzrNifRnmeI7-E4RkfX1qlW-Q2le53H7BGznQCRKTzBM0F8ovvr8Z8iXFmnj0Sb6jEXK5QL8mL9nb27-g/UuiRIiyQFfO3eqooXG6qfBltVxRyQ0hQE5SFp3i2elA",
     "categoria": "Spettacolo teatrale",
@@ -260,6 +280,7 @@
     "lon": 11.2
   },
   {
+    "id": "",
     "nome": "Arkana 202",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/XAVs7NACWay4JEa7eG6bew/KjzydbTh3aKUud8xeUjkPD5dPdMh1EU3qRlaN7sLNIfW3TEpahjCeX-fJ9jI5wtE9ufZ3Eq-rNvbMzGpfCZvTS8Tm_5NQmmRPsz8MIQ8v-kqf3cguDyKTS7kue-CzWlYXqV-enYrJ8eUYVclLQDLvz3ImHjwAq6SBbxuYxLSB8mA537ycmPv8jAq1SeK6R02/KLCrO3QSLKElCSRKhp-ylaFmJ7MzXYR2eY_ZJpJOY2g",
     "categoria": "Festival",
@@ -273,6 +294,7 @@
     "lon": 10.6
   },
   {
+    "id": "",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/Qki19sVpcOCfdfca46nwXA/3VYQjZ5ZJ_5su0Wv3KVCQX2JizG75yOD8d3S1wd2CamDOO_G1oj0je5DL8Cplys5Lxs2cXu4zodhkoi5ZjSZsulKpwp42HuB6SBIEFZRHv1AJqqIznmzNAs7ibC9QnxKSjnZXxuvDXUEs1sYQnHt6pxRvRKbp7v0fZI74tJ6IqFHBfvg0xkZTEbOsnI_EQ1M/6t11DuBJ52ZZ6tpKnMAwIBjFk4IQFlanJ9BeHrBYfyw",
     "categoria": "Concerto",
@@ -286,6 +308,7 @@
     "lon": 11.2
   },
   {
+    "id": "",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/EM2KYPB3oKhcdArww9P0Xg/9xE9cspc8hcJAd2vNRUSesYnxiBWa9C5LUVP8PYCHsnkx72BAhGyydiSIBQv5XHXb-IxlS5WC-q5Jo-qpqArCRhScG5I6MORWLmickyIYUwYPiRAxWBuduhoV0I2SCA0K6MpvL-BF7eXWa_CEPAwjwqgEU1aVH-80_3aSPd2V41bw7jPPzAyVRPAstAHV5yG/wpdTVQyES4GUYGS0wlObNGG9jpOPy0k4dCEwVQt3JDU",
     "categoria": "Concerto",
@@ -299,6 +322,7 @@
     "lon": 11.2
   },
   {
+    "id": "",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/zIKttgmx7FsAHWDe1ULL8w/dJoJVapSEN9gnywzLLG2EueuBGZRFpq94tSzynNOJ-8oLis3THMgEOdCFQ93cpSSEi0AeRBUvyxZkKfkj7j-jPMKtkwbGOerwA112g0XRT1IvR7iScKkUdmgg7ugoJUmgsVzwQQID8i4CBVRIBqSXxqS5UXey0UNUF-tkKgBq821Z7HPfXk-wvbYrJaV6qTE/XqE6bqXtCtUjwIJlTrnXgqelp18yunJaAkerMDOq61o",
     "categoria": "Concerto",
@@ -312,6 +336,7 @@
     "lon": 11.2
   },
   {
+    "id": "",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/BOGI6ZmT-8lKgz1kX7L-sA/7F_pGc6skEdAvzmCCruvSqnBASOZDBM_WkOQxOMGbSu8wpypwMdv6C27IV5k5cbEAbE4TjAipHXc4N8qBg0WJQ_8uBS2g5DTVyGl3podwLVDwj6_V3sjwu42O0TkmV8D_HU6Yj7c9DxGErWdeF_IONgNueQhqNv7cdtqFeZOR5LDwxxELaT1Sai9VZ_zfIw1/WAGh2ACHbo4UroAYQxb6NSS97RI84x4ypi0iZFgTbQE",
     "categoria": "Concerto",
@@ -325,6 +350,7 @@
     "lon": 11.2
   },
   {
+    "id": "",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/-5OAAHi9DElRCp70f71r8A/ewXwXAPYnCwu1lMVNoaY8_eo4PZoSNay3HtEsvXfYfHWNf8F7PdwBIVpaL6pASVvQUvoL3CJGxqhb3HEwGWTzTDPkXdNhE__vk68iy9Ah6LImKiE0Hel-qeXRgAZ1uxHYUsp65lP87ucphxFOglQZQgb9Q9CUPSH0pfpkhXWGfgKTX6xGSXzxDCWJcuaWnDZ/CeT-aUSxq1L0BuE5pWQCPUBmwgkLfSGJHSfBoAY-y14",
     "categoria": "Concerto",
@@ -338,6 +364,7 @@
     "lon": 11.2
   },
   {
+    "id": "",
     "nome": "Summer Vibes 2026",
     "locandina": "https://v5.airtableusercontent.com/v3/u/54/54/1783281600000/UOBDeGr9RFlQXeuIZbQIiw/kNqMODXP5s96zmFuStISg5ZmeuDxuxAkVt4j08vBEuk8JSeB279eb4twiaBXN5hKgSbxv_03Sd7Ey5V4hoytBIPm4m6HU7IYEQMEBLvH4ljJuDTAN8JgGMA4mAJS0FodTL1R7AYuMjSUgmWyLU1BP5hjlbaFOiXrBIMGj_t-NKS7qVAl1CD6AMQ8VjQJ_3AV/jOCUNGbRBL2v4oT5B3xgiTLCrZTzN4rg-kJmHbpqoew",
     "categoria": "Altro",
