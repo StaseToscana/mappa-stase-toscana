@@ -402,24 +402,34 @@
     if (!d) return false;
     const dataInizio = parseData(d);
     if (!dataInizio) return false;
-    // Use data_fine for multi-day events, fallback to dataInizio
     const dataFine = fields['data_fine'] ? parseData(fields['data_fine']) : dataInizio;
     const oggi = new Date(); oggi.setHours(0,0,0,0);
-    const domani = new Date(oggi); domani.setDate(oggi.getDate() + 1);
-    const day = oggi.getDay();
-    // Calculate this weekend (Saturday and Sunday)
-    const sabato = new Date(oggi);
-    sabato.setDate(oggi.getDate() + ((6 - day + 7) % 7 || 7));
+    const day = oggi.getDay(); // 0=domenica, 1=lunedì, ..., 6=sabato
+
+    // Questo weekend: il sabato più vicino da oggi (incluso oggi se è sabato)
+    // Se oggi è domenica (0), sabato era ieri — prendiamo il prossimo sabato
+    let giorniASabato;
+    if (day === 0) giorniASabato = 6;       // domenica → sabato prossimo
+    else if (day === 6) giorniASabato = 0;  // sabato → oggi
+    else giorniASabato = 6 - day;           // altri giorni → giorni mancanti a sabato
+
+    const sabato = new Date(oggi); sabato.setDate(oggi.getDate() + giorniASabato);
     const domenica = new Date(sabato); domenica.setDate(sabato.getDate() + 1);
-    const fineDomenica = new Date(domenica); fineDomenica.setDate(domenica.getDate() + 1);
-    // This week = today until next Monday
-    const lunedi = new Date(oggi); lunedi.setDate(oggi.getDate() + ((8 - day) % 7 || 7));
+    const lunediDopoWeekend = new Date(domenica); lunediDopoWeekend.setDate(domenica.getDate() + 1);
+
+    // Questa settimana: da oggi al prossimo venerdì (escluso il weekend)
+    let giorniAVenerdi;
+    if (day === 0) giorniAVenerdi = 5;      // domenica → venerdì prossimo
+    else if (day === 6) giorniAVenerdi = 6; // sabato → venerdì prossimo
+    else giorniAVenerdi = 5 - day;          // lunedì-venerdì → giorni a venerdì
+    const venerdi = new Date(oggi); venerdi.setDate(oggi.getDate() + giorniAVenerdi);
+    venerdi.setHours(23, 59, 59, 0);
+
     const tra30 = new Date(oggi); tra30.setDate(oggi.getDate() + 30);
-    
-    // Event is "active" in a period if it starts before period ends AND ends after period starts
+
     if (filtro === 'oggi') return dataInizio <= oggi && dataFine >= oggi;
-    if (filtro === 'weekend') return dataInizio < fineDomenica && dataFine >= sabato;
-    if (filtro === 'settimana') return dataInizio < lunedi && dataFine >= oggi;
+    if (filtro === 'weekend') return dataInizio <= domenica && dataFine >= sabato;
+    if (filtro === 'settimana') return dataInizio <= venerdi && dataFine >= oggi;
     if (filtro === 'mese') return dataInizio <= tra30 && dataFine >= oggi;
     return true;
   }
